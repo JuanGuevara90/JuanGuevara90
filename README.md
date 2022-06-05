@@ -10,7 +10,7 @@ Hi there, I'm **Juan Pablo Guevara**, a **Frond-End Developer** 🚀 from Ecuado
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently a Frond-End rtificial Intelligence intern with [Vneuron](https://www.vneuron.com/) working on NLP/NLU projects;
+- 👨🏽‍💻 I’m currently developing my reactjs portfolio-project;
 - 🌱 I’m currently learning ReactJs; 
 - 🤔 My interests are with Frond-End, Testing, etc..;
 - 💬 Ask me about anything, I am happy to help;
