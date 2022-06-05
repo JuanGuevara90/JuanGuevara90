@@ -11,7 +11,7 @@ Hi there, I'm **Juan Pablo Guevara**, a **Frond-End Developer** 🚀 from Ecuado
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently developing my reactjs portfolio-project;
-- 🌱 I’m currently learning ReactJs; 
+- 🌱 I’m currently learning ReactJs, Redux, React Query, React Router, React testing library and formik; 
 - 🤔 My interests are with Frond-End, Testing, etc..;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via guevara_juan1990@hotmail.com to reach me.
