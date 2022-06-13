@@ -35,4 +35,4 @@ Hi there, I'm **Juan Pablo Guevara**, a **Frond-End Developer** 🚀 from Ecuado
 
 ![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=callmemehdi&show_icons=true&hide_border=true)
 
-⭐️ From [CallmeMehdi](https://github.com/CallmeMehdi)
+⭐️ From [JuanGuevara90](https://github.com/JuanGuevara90)
